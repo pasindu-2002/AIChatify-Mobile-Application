@@ -15,12 +15,12 @@ What sets AiChatify apart is its integration with the ChatGPT API, which brings 
 
 Whether you're looking for a virtual assistant, a conversational companion, or a reliable information source, AiChatify delivers on all fronts. Join us on the journey where technology meets intuition, and communication reaches new heights. Download AiChatify today and explore the limitless possibilities of intelligent mobile conversations
 
+![Screenshot 2024-01-28 123930](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768)
+![Screenshot 2024-01-28 190932](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/2ace7d2b-37cc-4bb2-b296-2745d84cc2e8)
 ![Screenshot 2024-01-28 123626](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/680ba671-e77b-4af4-a4eb-7c9cf14a6e15)
 ![Screenshot 2024-01-28 123647](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/67def16e-2f3d-48a7-8b77-efe0b1a4408c)
 ![Screenshot 2024-01-28 123737](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/3d9bade5-fc8b-4a80-b2b2-65dfe6b5e5e0)
 ![Screenshot 2024-01-28 123916](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/a7cb5047-fc55-49a6-aebe-9cf6627559bd)
-![Screenshot 2024-01-28 123930](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768)
-![Screenshot 2024-01-28 190932](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/2ace7d2b-37cc-4bb2-b296-2745d84cc2e8)
 ![Screenshot 2024-02-06 224706](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/d59d5e19-854e-4688-8efd-d3f03740d7b1)
 
 
