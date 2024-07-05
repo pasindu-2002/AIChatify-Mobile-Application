@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/aichatifylog"
+        android:label="AIChatify"
+        android:roundIcon="@drawable/aichatifylogr"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ChatGPT"
+        tools:targetApi="34">
+        <activity
+            android:name=".ForgotPasswordActivity"
+            android:theme="@style/Theme.ChatGPTTheme"
+            android:exported="false" />
+
+        <activity
+            android:name=".SignUpActivity"
+            android:theme="@style/Theme.ChatGPTTheme"
+            android:exported="false" />
+
+        <activity
+            android:name=".LoginActivity"
+            android:theme="@style/Theme.ChatGPTTheme"
+            android:exported="false" />
+
+        <activity
+            android:name=".LoginOrSignupActivity"
+            android:exported="false" />
+
+        <activity android:name=".MainActivity" />
+
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:theme="@style/SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
