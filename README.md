@@ -15,7 +15,21 @@ What sets AiChatify apart is its integration with the ChatGPT API, which brings 
 
 Whether you're looking for a virtual assistant, a conversational companion, or a reliable information source, AiChatify delivers on all fronts. Join us on the journey where technology meets intuition, and communication reaches new heights. Download AiChatify today and explore the limitless possibilities of intelligent mobile conversations
 
- <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768" alt="Add/Edit Task Screen" style="width:40%; height:40%;">
+ <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768" alt="Add/Edit Task Screen" style="width:35%; height:35%;">
+
+  <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/680ba671-e77b-4af4-a4eb-7c9cf14a6e15" alt="Add/Edit Task Screen" style="width:35%; height:35%;">
+
+  <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/2ace7d2b-37cc-4bb2-b296-2745d84cc2e8" alt="Add/Edit Task Screen" style="width:35%; height:35%;">
+
+ <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/67def16e-2f3d-48a7-8b77-efe0b1a4408c" alt="Add/Edit Task Screen" style="width:35%; height:35%;">
+
+ <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/3d9bade5-fc8b-4a80-b2b2-65dfe6b5e5e0" alt="Add/Edit Task Screen" style="width:35%; height:35%;">
+
+  <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/a7cb5047-fc55-49a6-aebe-9cf6627559bd" alt="Add/Edit Task Screen" style="width:35%; height:35%;">
+
+ <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/d59d5e19-854e-4688-8efd-d3f03740d7b1" alt="Add/Edit Task Screen" style="width:35%; height:35%;">
+    
+    
 
 ![Screenshot 2024-01-28 123930](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768)
 ![Screenshot 2024-01-28 123626](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/680ba671-e77b-4af4-a4eb-7c9cf14a6e15)
