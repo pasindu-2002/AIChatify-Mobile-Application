@@ -15,7 +15,7 @@ What sets AiChatify apart is its integration with the ChatGPT API, which brings 
 
 Whether you're looking for a virtual assistant, a conversational companion, or a reliable information source, AiChatify delivers on all fronts. Join us on the journey where technology meets intuition, and communication reaches new heights. Download AiChatify today and explore the limitless possibilities of intelligent mobile conversations
 
- <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768" alt="Add/Edit Task Screen" style="width:50%; height:50%;">
+ <img src="https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768" alt="Add/Edit Task Screen" style="width:30%; height:30%;">
 
 ![Screenshot 2024-01-28 123930](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/4cab1d5e-a65b-4ac6-b954-f1ea7d485768)
 ![Screenshot 2024-01-28 123626](https://github.com/pasindu-2002/AIChatify-Mobile-Application/assets/87941322/680ba671-e77b-4af4-a4eb-7c9cf14a6e15)
